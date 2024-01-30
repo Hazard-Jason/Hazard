@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-id="nombre_canal" tvg-name="Nombre del Canal" tvg-logo="URL_del_logo" group-title="Grupo",Nombre del Canal
 http://url_del_stream
 
-#EXTINF:-1 tvg-id="nombre_capitulo1" tvg-name="Nombre del Capítulo 1" group-title="Grupo",Capítulo 1
-http://url_capitulo1
+#EXTINF:-1 tvg-id="Tales of Wedding Rings C1" tvg-name="Nombre del Capítulo 1" group-title="Grupo",Capítulo 1
+https://be2719.rcr22.ams01.cdn112.com/hls2/01/05409/ag3iqomh36l5_x/index-v1-a1.m3u8?t=jreHLDwdAlPwrNUsNuw_g0mxwEr3KieEUMMJKnnsfv0&s=1706658658&e=43200&f=27049410&srv=02&asn=270068&sp=2500
 
 #EXTINF:-1 tvg-id="nombre_capitulo2" tvg-name="Nombre del Capítulo 2" group-title="Grupo",Capítulo 2
 http://url_capitulo2
