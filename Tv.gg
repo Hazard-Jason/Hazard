@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="nombre_canal" tvg-name="Nombre del Canal" tvg-logo="URL_del_logo" group-title="Grupo",Nombre del Canal
+http://url_del_stream
+
+#EXTINF:-1 tvg-id="nombre_capitulo1" tvg-name="Nombre del Capítulo 1" group-title="Grupo",Capítulo 1
+http://url_capitulo1
+
+#EXTINF:-1 tvg-id="nombre_capitulo2" tvg-name="Nombre del Capítulo 2" group-title="Grupo",Capítulo 2
+http://url_capitulo2
